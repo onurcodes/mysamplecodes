@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <time.h>
 #include <conio.h>
-#include <iostream>
 
 #define KART_SAYISI 13
 #define TIP 4
