@@ -1,0 +1,48 @@
+﻿html {
+	height: 100%;
+}
+body {
+	height: 100%;
+	margin: 0px;
+	font-size: 15px;
+	
+}
+a {
+	color: red;
+}
+img {
+	float: right;
+	width: 200px;
+}
+p span
+{
+	font-weight: bold;
+}
+.function{
+	//background-color:#DCDDEF;
+	color:black;
+	border-style: none none solid none;
+	//border-color:red;
+	width: 75%;
+	font-weight : bolder;
+	font-style: underline;
+}
+.arguments{
+
+}
+.argument{
+	//display:inline;
+		margin-left:100px;
+	color: #0000FF;
+}
+.description{
+	//color : green;
+	font-weight : bold;
+	font-style : italic;
+}
+.header {
+	background-color: #99B5DD;
+	font-size: 30px;
+}
+.content {
+}
